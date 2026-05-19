@@ -14,3 +14,9 @@ SKILLS
 CAREER GOALS
 
 I want to pursure a career in either forensic science or chemistry.
+
+ACTIVITIES
+- DECA
+- Key Club
+- 4-H
+- Orchestra
