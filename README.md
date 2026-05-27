@@ -1,8 +1,6 @@
-Abigail Forrester
-
 ABOUT ME
 
-I am a student at Richland High School interested in the STEM field, specifically chemistry.
+Hi my name is Abigail Forrester. I am a student at Richland High School interested in the STEM field, specifically chemistry.
 
 SKILLS
 - Computer Programming
